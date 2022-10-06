@@ -25,6 +25,8 @@ Future file: it describes the furture , with one or more test secnario's. Maximi
 step defination file :Its maps, easest 
 test runner file: Has the both information of both furture file and step definition file. 
 
+why cucumber used ?
+
 
 
 
