@@ -1,0 +1,38 @@
+1) what is cucumver?
+
+cucumber is tool to run tests, written in BDD formate, cucumber tool write in ruby , but now support java and jave script testing also.
+
+2)What is BDD?
+ 
+BDD stands for Behaviour Driven Development,in BDD software is developed using behaviour specification written in the tests ,
+BDD test written ordinary english language , coders and non coders both can collabrate defining tests, Bdd all roles like developers , devops , 
+and QA, and product owners understand application features without knowing coding details. 
+
+3) Advantage of cucumber?
+
+open sorce free tool.  
+gherkin language ,
+code reusability
+can intigrated with selenium and testNG  
+
+4) what files are needed to excecute cucumber test?
+
+Future file :
+step definition file :
+test runner file:
+
+Future file: it describes the furture , with one or more test secnario's. Maximium no of secnarios in the future file is fixed in the projects 
+step defination file :Its maps, easest 
+test runner file: Has the both information of both furture file and step definition file. 
+
+
+
+
+5) What is a Feature example?
+
+Feature: Click ABC link on example.com
+Scenario: Navigate to ABC page
+Given: i am on example.com home page etc.
+When: I click on ABC
+Then :The ABC page is opened
+
